@@ -29,6 +29,3 @@ Implemente mais testes relacionados à usabilidade da calculadora!
 - as outras operações também funcionam corretamente (-, + e /)
 - dividir por 0 gera NaN
 
-```sh
-npm i
-```
